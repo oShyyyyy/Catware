@@ -8,7 +8,7 @@
  * Silent Notification (same as ^ with no sound (so sexy omg))
  * Toggle Trade Manager (no deficit (so col)(yes)))
  
- *                 -             - separation ((cuz cool))            -            -
+ * SEPARATION
 
  *  Toggle Smart Trade (means you will become smart(na, automatically add .1 at every  trade(yes)))
  *  legacy trade manager (dont get into deficit for natural resources)
@@ -22,7 +22,8 @@
  *  Ressource Drodpdown (there every ressource)
  *  Safety_ Slider (safety)
  *  Wait time_ slider (time between trade)
-  *                 -             - separation ((cuz cool))            -            -
+ 
+ * SEPARATION
 
  *  Ressource Hogger (like autobuy)
  *  Ressource dropdown (there every ressource)
