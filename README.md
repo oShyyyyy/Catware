@@ -10,6 +10,7 @@
  
  * SEPARATION
 
+
  *  Toggle Smart Trade (means you will become smart(na, automatically add .1 at every  trade(yes)))
  *  legacy trade manager (dont get into deficit for natural resources)
  *  Toggle catware calls !! (put a box like if u are in .. ressource deficit this put ..ressource deficit example (electronics deficit)))
@@ -55,5 +56,5 @@
  *  Clear all notification (trade .etc)
 
 
-You can buy catware by joining the discord :https://discord.gg/njcs9AaEg3
+You can buy catware by joining the discord : https://www.catwarenig.ga/discord
 
