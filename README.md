@@ -15,7 +15,7 @@
  *  Toggle catware calls !! (put a box like if u are in .. ressource deficit this put ..ressource deficit example (electronics deficit)))
 
 
-       - Trading Features
+       - Main features
       
  
  *  Toggle Autosell (toggle)
