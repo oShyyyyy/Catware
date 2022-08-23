@@ -3,7 +3,7 @@
        - Main features
        
        
- * Unit ESP (esp on troops ni)
+ * Unit ESP (esp on troops (that prty obvious ?))
  * Toggle Clear-Loop (notification thing?)
  * Silent Notification (same as ^ with no sound (so sexy omg))
  * Toggle Trade Manager (no deficit (so col)(yes)))
