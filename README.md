@@ -7,6 +7,7 @@
  * Toggle Clear-Loop (notification thing?)
  * Silent Notification (same as ^ with no sound (so sexy omg))
  * Toggle Trade Manager (no deficit (so col)(yes)))
+ * Country Lookup aka Country viewer
  
  * SEPARATION
 
